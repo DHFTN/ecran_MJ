@@ -3,7 +3,7 @@ DHFTN vous présente la nouvelle aide de jeu pour JDR 5E : l'écran du MJ.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X047X1L)
 
-[![Écran](https://www.black-book-editions.fr/contenu/users/78375/image/Objets.png)]
+![Écran](https://www.black-book-editions.fr/contenu/users/78375/image/Objets.png)
 ## Version 1
 Le nouvel écran rélisé par DHFTN pour la DHFTN Collection
 
