@@ -5,7 +5,7 @@ DHFTN vous présente la nouvelle aide de jeu pour JDR 5E : l'écran du MJ.
 
 ![Écran](https://www.black-book-editions.fr/contenu/users/78375/image/Objets.png)
 ## Version 1
-Le nouvel écran rélisé par DHFTN pour la DHFTN Collection
+Le nouvel écran réalisé par DHFTN pour la DHFTN Collection.
 
 ## 5 inserts pour compléter votre écran
 Dans ce fichier PDF de haute qualité, vous retrouverez les règles et les tables les plus importantes pour maîtriser le plus ancien des jeux de rôle ou l'une de ses nombres déclinaisons.
